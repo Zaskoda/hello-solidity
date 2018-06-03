@@ -1,0 +1,97 @@
+{
+  "contractName": "ShipFactory",
+  "abi": [],
+  "bytecode": "0x6080604052348015600f57600080fd5b50603580601d6000396000f3006080604052600080fd00a165627a7a72305820f1349d312dcc9a3bfefe67c8be05df1b635c7b8363621e697ce5073a4fb54fa70029",
+  "deployedBytecode": "0x6080604052600080fd00a165627a7a72305820f1349d312dcc9a3bfefe67c8be05df1b635c7b8363621e697ce5073a4fb54fa70029",
+  "sourceMap": "26:31:3:-;;;;8:9:-1;5:2;;;30:1;27;20:12;5:2;26:31:3;;;;;;;",
+  "deployedSourceMap": "26:31:3:-;;;;;",
+  "source": "pragma solidity ^0.4.23;\n\ncontract ShipFactory {\n\n    \n\n}",
+  "sourcePath": "/home/zaskoda/projects/eth/hello/contracts/Ship.sol",
+  "ast": {
+    "absolutePath": "/home/zaskoda/projects/eth/hello/contracts/Ship.sol",
+    "exportedSymbols": {
+      "ShipFactory": [
+        189
+      ]
+    },
+    "id": 190,
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 188,
+        "literals": [
+          "solidity",
+          "^",
+          "0.4",
+          ".23"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "0:24:3"
+      },
+      {
+        "baseContracts": [],
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "documentation": null,
+        "fullyImplemented": true,
+        "id": 189,
+        "linearizedBaseContracts": [
+          189
+        ],
+        "name": "ShipFactory",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 190,
+        "src": "26:31:3"
+      }
+    ],
+    "src": "0:57:3"
+  },
+  "legacyAST": {
+    "absolutePath": "/home/zaskoda/projects/eth/hello/contracts/Ship.sol",
+    "exportedSymbols": {
+      "ShipFactory": [
+        189
+      ]
+    },
+    "id": 190,
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 188,
+        "literals": [
+          "solidity",
+          "^",
+          "0.4",
+          ".23"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "0:24:3"
+      },
+      {
+        "baseContracts": [],
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "documentation": null,
+        "fullyImplemented": true,
+        "id": 189,
+        "linearizedBaseContracts": [
+          189
+        ],
+        "name": "ShipFactory",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 190,
+        "src": "26:31:3"
+      }
+    ],
+    "src": "0:57:3"
+  },
+  "compiler": {
+    "name": "solc",
+    "version": "0.4.24+commit.e67f0147.Emscripten.clang"
+  },
+  "networks": {},
+  "schemaVersion": "2.0.0",
+  "updatedAt": "2018-06-03T11:43:44.678Z"
+}
